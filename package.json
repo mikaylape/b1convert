@@ -1,0 +1,29 @@
+{
+  "name": "b1convert",
+  "version": "1.0.0",
+  "description": "b1convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikaylape/b1convert.git"
+  },
+  "keywords": [
+    "b1convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "mikaylape",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikaylape/b1convert/issues"
+  },
+  "homepage": "https://github.com/mikaylape/b1convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
